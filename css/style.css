@@ -211,7 +211,7 @@ a:active {
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url(../img/profile-banner.jpg); 
+      background-image: url(../img/banner.jpg); 
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
@@ -773,4 +773,7 @@ a:active {
     height:100%;
     width:100%;
     position:absolute;
+}
+.white-text {
+    color: white;
 }
